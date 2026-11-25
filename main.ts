@@ -1,6 +1,7 @@
 // Dapur Kilat hand-in (Node 22, standard library only).
+// Built fresh in this session for best-cooking-game-20261125-0137.
 //
-// The game lives in game/ as plain static files and the screenshots
+
 // live in screenshots/. This program gathers both into the grader's
 // output directory and writes dossier.json there, using the kit's
 // dossier builder from vendor/makefun-game.ts.
